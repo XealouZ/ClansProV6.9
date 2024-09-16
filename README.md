@@ -1,6 +1,6 @@
 # ClansProV6.9
-Created By: FahmiCyber
-A Pocketmine Plugin ClansPro . This Language Plugin Is Bahasa Indonesia
+Created By: Xealouz
+A Pocketmine Plugin ClansPro
 
 # Command :
 * **/clan about** 
